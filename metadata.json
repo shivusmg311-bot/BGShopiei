@@ -1,0 +1,6 @@
+{
+  "name": "BG SHPOI EI",
+  "description": "Professional Aesthetic E-commerce Store with a customer shopping experience and a full merchant admin panel controlling orders and custom payment requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
